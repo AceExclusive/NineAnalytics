@@ -21,7 +21,7 @@
  * USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
-package com.nordicsemi.nrfUARTv2;
+package com.AceExclusive.NineAnalytics;
 
 
 
@@ -31,7 +31,7 @@ import java.text.DateFormat;
 import java.util.Date;
 
 
-import com.nordicsemi.nrfUARTv2.UartService;
+import com.AceExclusive.NineAnalytics.UartService;
 
 import android.app.Activity;
 import android.app.AlertDialog;
